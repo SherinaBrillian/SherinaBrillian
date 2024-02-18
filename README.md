@@ -1,13 +1,13 @@
 <h1 align="center">Hi Folks!👋, I'm Sherina Brillian</h1>
 <h3 align="center">A Backend Enthusiast</h3>
 
-- 🌱 I’m currently learning **Java and Java Script**
+- 🌱 I’m currently learning : **Java and Java Script**
 
-- 📫 How to reach me **sherinabrillian5@gmail.com**
+- 📫 How to reach me : **sherinabrillian5@gmail.com**
 
-- 📄 See my experiences [https://www.linkedin.com/in/sherina-brillian/](https://www.linkedin.com/in/sherina-brillian/)
+- 📄 See my experiences : [https://www.linkedin.com/in/sherina-brillian/](https://www.linkedin.com/in/sherina-brillian/)
 
-- ⚡ Fun fact **Trying new things and it turns out I love the field of being a backend developer**
+- ⚡ Fun fact about me : **Trying new things and it turns out I love the field of being a backend developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
