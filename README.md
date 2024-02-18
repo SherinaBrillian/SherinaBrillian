@@ -1,7 +1,5 @@
 <h1 align="center">Hi Folks!👋, I'm Sherina Brillian</h1>
 <h3 align="center">A Backend Enthusiast</h3>
-<img align="right" alt="coding" width="300" src="https://dribbble.com/shots/7466903-Hello-Dribbble">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinabrillian&label=Profile%20views&color=0e75b6&style=flat" alt="sherinabrillian" /> </p>
 
 - 🌱 I’m currently learning **Java and Java Script**
