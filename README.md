@@ -7,7 +7,7 @@
 
 - 📄 See my experiences : [https://www.linkedin.com/in/sherina-brillian/](https://www.linkedin.com/in/sherina-brillian/)
 
-- ⚡ Fun fact about me : **Trying new things and it turns out I love the field of being a backend developer**
+- ⚡ Fun fact about me : **Love Hate Relationship with Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
